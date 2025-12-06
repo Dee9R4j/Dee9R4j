@@ -47,13 +47,3 @@ I'm a passionate developer from India who enjoys building mobile apps with clean
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepRaj7408&show_icons=true&hide_border=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=00aeff&icon_color=00aeff" width="400" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepRaj7408&layout=compact&hide_border=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=00aeff&icon_color=00aeff" width="400" alt="Top Languages" />
-</p>
-
----
-
