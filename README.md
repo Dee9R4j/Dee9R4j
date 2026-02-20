@@ -1,4 +1,4 @@
-# Deep Raj (dee9r4j)
+# Deep Raj (Dee9R4j)
 
 I'm a passionate developer from India who enjoys building mobile apps with clean UI and strong architecture. Currently focusing on React Native and Node.js development.
 
