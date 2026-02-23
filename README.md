@@ -1,10 +1,10 @@
 # Deep Raj (Dee9R4j)
 
-I'm a passionate developer from India who enjoys building mobile apps with clean UI and strong architecture. Currently focusing on React Native and Node.js development.
+I'm a passionate developer from India who enjoys building mobile/desktop apps with clean UI and strong architecture. Currently focusing on Rust and React Native development.
 
 - 🔭 Working on an **Operating System** in Rust  
 - 🌱 Learning **Blockchain**, **System architecture**, and **DevOps tools**  
-- 👯 Open to collaboration on mobile, backend or operating system projects  
+- 👯 Open to collaboration on mobile/desktop apps, backend or operating system projects  
 - 📫 Reach out: **dee2005p@gmail.com**
 
 <p align="right">
