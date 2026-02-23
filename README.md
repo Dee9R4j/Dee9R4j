@@ -2,9 +2,9 @@
 
 I'm a passionate developer from India who enjoys building mobile apps with clean UI and strong architecture. Currently focusing on React Native and Node.js development.
 
-- 🔭 Working on a **free VPN app** in React Native  
-- 🌱 Learning **Kotlin**, **Rust**, and **DevOps tools**  
-- 👯 Open to collaboration on mobile & backend projects  
+- 🔭 Working on an **Operating System** in Rust  
+- 🌱 Learning **Blockchain**, **System architecture**, and **DevOps tools**  
+- 👯 Open to collaboration on mobile, backend or operating system projects  
 - 📫 Reach out: **dee2005p@gmail.com**
 
 <p align="right">
